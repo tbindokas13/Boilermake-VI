@@ -1,0 +1,15 @@
+{
+  "name": "snapdragontutorial",
+  "version": "1.0.0",
+  "description": "Tutorial for Snapdragon 410c",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Boikermake-IV"
+  },
+  "author": "Tomas Bindokas",
+  "license": "ISC"
+}
