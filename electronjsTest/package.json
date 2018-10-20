@@ -1,0 +1,14 @@
+{
+  "name": "electronjstest",
+  "version": "1.0.0",
+  "description": "Symple system monitor",
+  "main": "Main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Tomas Bindokas",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.5"
+  }
+}
