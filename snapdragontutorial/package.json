@@ -4,11 +4,11 @@
   "description": "Tutorial for Snapdragon 410c",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
   "repository": {
     "type": "git",
-    "url": "Boikermake-IV"
+    "url": "https://github.com/tbindokas13/Boilermake-VI"
   },
   "author": "Tomas Bindokas",
   "license": "ISC"
